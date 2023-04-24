@@ -1,5 +1,6 @@
 /bin/
 /obj/
+/src/output/
 
 Estudo_C++.cbp
 Estudo_C++.layout
