@@ -1,10 +1,9 @@
 #include <iostream>
 
 
+int main(){
 
-int main (){
+	std::cout << "Olá Mundo!";
 
-
-
-    return 0;
+	return 0;
 }
